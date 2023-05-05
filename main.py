@@ -1,4 +1,1 @@
-from src import *
-import colorama
-from replit import db
-colorama.init(autoreset=True)
+print(Coming Soon... Check Github For Updates...)
