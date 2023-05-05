@@ -17,7 +17,7 @@ def ctxt(text, color):
         case "magenta":
             color = colorama.Fore.MAGENTA
     return color + text
-def tprint(text, time):
+def tprint(text, time=1):
     time.sleep(time)
     print(text)
 def eclear():
